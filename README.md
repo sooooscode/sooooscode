@@ -1,10 +1,11 @@
-👋 Hi, I’m Yeonsu (sooooscode)
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/c45f10de-8dfc-49db-8313-04222b275c48" />👋 Hi, I’m Yeonsu (sooooscode)
 
-👨‍💻 I'm a backend developer passionate about **Spring Boot, MySQL, AWS, and AI.**  
-🌱 Currently working on my graduation project: **GPT-4o powered online chatting book club!**  
+👨‍💻 I'm a backend developer passionate about **Spring Boot, MySQL, and AWS.**  
+🌱 Currently working on my Big Data Application project: **A weather-driven travel recommendation platform that uses past climate data to help users pick the best destination and timing for their next trip.!**  
 
 ### 📫 How to reach me 
 - 📧 Email: sooooscode@gmail.com
+- 🔗 linkedin: www.linkedin.com/in/sooooscode
 - 🟡 KakaoTalk: [Open Chat](https://open.kakao.com/o/ssot2Lgh)  
 
 
