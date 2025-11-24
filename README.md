@@ -1,7 +1,7 @@
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/c45f10de-8dfc-49db-8313-04222b275c48" />👋 Hi, I’m Yeonsu (sooooscode)
+👋 Hi, I’m Yeonsu Kim (sooooscode).
 
 👨‍💻 I'm a backend developer passionate about **Spring Boot, MySQL, and AWS.**  
-🌱 Currently working on my Big Data Application project: **A weather-driven travel recommendation platform that uses past climate data to help users pick the best destination and timing for their next trip.!**  
+🌱 Currently working on my Big Data Application project: **A weather-driven travel recommendation platform that uses past climate data to help users pick the best destination and timing for their next trip.**  
 
 ### 📫 How to reach me 
 - 📧 Email: sooooscode@gmail.com
