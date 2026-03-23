@@ -29,8 +29,8 @@
 
 #### 🏛️ **Gover-Eye** (Google Solution Challenge 2026)
 - **Role**: Team Leader & Lead Backend Engineer
-- **Focus**: 글로벌 거버넌스 감시 체계 구축을 위한 확장 가능한 **MSA(Microservices Architecture)** 설계.
-- **Challenge**: 대규모 데이터 처리와 실시간 모니터링을 위한 백엔드 파이프라인 최적화 및 팀 기술 스택 리딩.
+- **Focus**: 문서 기반 리스크 평가를 위한 비동기 백엔드 아키텍처(Outbox + RabbitMQ + Worker) 설계 및 구현.
+- **Challenge**: 상태 전이, 재처리 권한, 감사 로그 append-only, idempotency, trace_id 기반 추적 규칙을 코드/DB/API 전 계층에서 일관되게 강제해 데이터 정합성과 운영 신뢰성을 확보.
 
 #### 🛰️ **EveryWhere AI** (GDG RE:ALThon 3rd Prize)
 - **Problem**: 실시간 멀티모달 데이터(이미지, 오디오, BLE) 기반의 공간 혼잡도 예측 정확도 확보.
