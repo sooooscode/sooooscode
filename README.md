@@ -38,7 +38,7 @@
 
 #### 📖 **Modam (모담)** *AI-Driven Book Club Platform*
 - **Innovation**: **LangGraph**를 도입하여 대화의 맥락을 유지하는 상태 기반 AI 모더레이터 워크플로우 설계.
-- **Storage**: **ChromaDB** 벡터 스토어 활용, 사용자 맞춤형 도서 정보 RAG 파이프라인 구축.
+- **Storage**: **ChromaDB** vector 스토어 활용, 도서 정보 및 사용자 독후감 RAG 파이프라인 구축.
 
 ---
 
