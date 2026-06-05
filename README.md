@@ -42,14 +42,6 @@
 
 ---
 
-### 📈 GitHub Analysis
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sooooscode&layout=compact&theme=radical" />
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=sooooscode&theme=react-dark" />
-</p>
-
----
-
 ### 🌍 Global & Awards
 -  <img src="https://fonts.gstatic.com/s/i/productlogos/googleg/v6/16px.svg" width="15px"> **GDGoC Ewha Core Member**: Server part (Leadership & Mentoring)
 - 🇩🇪 **Mainz, Germany**: JGU Mainz 방문 학생 (Global Communication & Adaptability)
